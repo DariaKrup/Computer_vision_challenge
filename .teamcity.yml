@@ -5,3 +5,5 @@ jobs:
       - type: script
         script-content: echo "CV challenge is accepted"
     runs-on: Linux-Medium
+parameters:
+  piop: e
