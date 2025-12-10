@@ -11,6 +11,7 @@
 **Запуск программы**
 
 shape_finder.py -s input.txt -i image.png
+Примеры хранятся в ветке - cv_shape_finder.
 
 **Выход**
 
